@@ -1,5 +1,5 @@
 ---
-date: 2021-12-29
+date: 2021-12-20
 name: 'FadeIn'
 description: 'Tạo một component FadeIn đơn giản trong React'
 category: 'React Component'

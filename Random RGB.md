@@ -1,5 +1,5 @@
 ---
-date: 2021-12-29
+date: 2021-12-20
 name: 'randomRGB()'
 description: 'Hàm tạo chuỗi rgb() ngẫu nhiên'
 category: 'JavaScript'
