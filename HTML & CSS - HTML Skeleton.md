@@ -6,6 +6,8 @@ category: 'HTML & CSS'
 slug: 'html-skeleton'
 ---
 
+Đây là một khung HTML đơn giản để bạn khởi động bất kỳ dự án HTML mới. Nó bao gồm tất cả các phương pháp hay nhất hiện nay để chia sẻ trên mạng xã hội.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -31,3 +33,5 @@ slug: 'html-skeleton'
 </body>
 </html>
 ```
+
+Nếu bạn hiện đang làm việc với React bạn sẽ phải sử dụng thẻ tự đóng `<meta />` thay vì `<meta>` trong HTML. Nó không hoàn toàn cần thiết trong HTML, nhưng nó cần thiết trong JSX.
