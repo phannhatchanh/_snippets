@@ -6,6 +6,8 @@ category: 'JavaScript'
 slug: 'random-rgb'
 ---
 
+Trong một vài trường trường hợp nào đó. Nếu bạn muốn **hiển thị hệ màu RGB hoặc RGBA ngẫu nhiên** thì bạn có thể sử dụng đoạn code dưới đây trong dự án của bạn.
+
 ```javascript
 const random255 = () => Math.floor(Math.random() * 255)
 

@@ -6,6 +6,8 @@ category: 'React Component'
 slug: 'fade-in'
 ---
 
+**FadeIn** là một **component tiện ích** giúp bạn nhanh chóng thêm một hoạt ảnh mờ dần cho một phần tử hoặc một nhóm các phần tử.
+
 ```jsx:title=FadeIn.js
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
@@ -46,20 +48,25 @@ export default FadeIn
 ```
 
 ## Cách sử dụng
+
+- Bao bọc bất kỳ phần tử nào bạn muốn tạo hiệu ứng trong `<FadeIn>`
 ```jsx
-// Wrap whatever elements you want in a `<FadeIn>` wrapper:
 <FadeIn>
   <SomeBitOfUI />
 </FadeIn>
+```
 
-// Render conditionally to fade on every re-enter
+- Hiển thị `<FadeIn>` có điều kiện sau mỗi lần nạp lại
+```jsx
 {someBoolean && (
   <FadeIn>
     <ThingToShow />
   </FadeIn>
 )}
+```
 
-// Customize `duration` and `delay`
+- Tùy chỉnh `thời lượng` và` độ trễ` của hiệu ứng
+```jsx
 <FadeIn delay={250} duration={450}>
   <p>Slightly later and longer animation</p>
 </FadeIn>
