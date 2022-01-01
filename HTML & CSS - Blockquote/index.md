@@ -5,9 +5,6 @@ description: 'Tổng hợp một số mẫu thiết kế với CSS cho khối bl
 category: 'HTML & CSS'
 slug: 'reference-blockquote'
 ---
-https://saruwakakun.com/it/wi-fi/router-place
-https://saruwakakun.com/html-css/reference/ribbon
-https://saruwakakun.com/html-css/reference/blockquote
 
 Dưới đây là một số mẫu blockquote được thiết kế với HTML và CSS (không sử dụng hình ảnh), bạn có thể thay đổi style thiết kế dễ dàng. Nếu bạn có một trang blog hoặc trang web, hãy tham khảo một số mẫu dưới đây và sử dụng nó trên trang blog hay trang web của bạn.
 
