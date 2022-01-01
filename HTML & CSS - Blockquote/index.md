@@ -1,7 +1,7 @@
 ---
 date: 2021-12-31
 name: 'blockquote'
-description: 'Tổng hợp một số mẫu thiết kế với CSS cho khối <strong>blockquote</strong> đẹp.'
+description: 'Tổng hợp một số mẫu thiết kế với CSS cho khối Blockquote đẹp.'
 category: 'HTML & CSS'
 slug: 'reference-blockquote'
 ---
