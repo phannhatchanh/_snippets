@@ -20,7 +20,7 @@ Dưới đây là một số mẫu blockquote được thiết kế với HTML v
 
 ## CSS
 
-<details><summary>Code - Mẫu 1</summary>
+<details><summary>Code CSS - Mẫu 1</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -98,7 +98,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-1.png 'Blockquote CSS - Mẫu 1')
 
 ---
-<details><summary>Code - Mẫu 2</summary>
+<details><summary>Code CSS - Mẫu 2</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -178,7 +178,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-2.png 'Blockquote CSS - Mẫu 2')
 
 ---
-<details><summary>Code - Mẫu 3</summary>
+<details><summary>Code CSS - Mẫu 3</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -262,7 +262,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-3.png 'Blockquote CSS - Mẫu 3')
 
 ---
-<details><summary>Code - Mẫu 4</summary>
+<details><summary>Code CSS - Mẫu 4</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -346,7 +346,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-4.png 'Blockquote CSS - Mẫu 4')
 
 ---
-<details><summary>Code - Mẫu 5</summary>
+<details><summary>Code CSS - Mẫu 5</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -426,7 +426,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-5.png 'Blockquote CSS - Mẫu 5')
 
 ---
-<details><summary>Code - Mẫu 6</summary>
+<details><summary>Code CSS - Mẫu 6</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -508,7 +508,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-6.png 'Blockquote CSS - Mẫu 6')
 
 ---
-<details><summary>Code - Mẫu 7</summary>
+<details><summary>Code CSS - Mẫu 7</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -592,7 +592,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-7.png 'Blockquote CSS - Mẫu 7')
 
 ---
-<details><summary>Code - Mẫu 8</summary>
+<details><summary>Code CSS - Mẫu 8</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -675,7 +675,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-8.png 'Blockquote CSS - Mẫu 8')
 
 ---
-<details><summary>Code - Mẫu 9</summary>
+<details><summary>Code CSS - Mẫu 9</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -755,7 +755,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-9.png 'Blockquote CSS - Mẫu 9')
 
 ---
-<details><summary>Code - Mẫu 10</summary>
+<details><summary>Code CSS - Mẫu 10</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -861,7 +861,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-10.png 'Blockquote CSS - Mẫu 10')
 
 ---
-<details><summary>Code - Mẫu 11</summary>
+<details><summary>Code CSS - Mẫu 11</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -928,7 +928,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-11.png 'Blockquote CSS - Mẫu 11')
 
 ---
-<details><summary>Code - Mẫu 12</summary>
+<details><summary>Code CSS - Mẫu 12</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -993,7 +993,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-12.png 'Blockquote CSS - Mẫu 12')
 
 ---
-<details><summary>Code - Mẫu 13</summary>
+<details><summary>Code CSS - Mẫu 13</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1085,7 +1085,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-13.png 'Blockquote CSS - Mẫu 13')
 
 ---
-<details><summary>Code - Mẫu 14</summary>
+<details><summary>Code CSS - Mẫu 14</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1177,7 +1177,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-14.png 'Blockquote CSS - Mẫu 14')
 
 ---
-<details><summary>Code - Mẫu 15</summary>
+<details><summary>Code CSS - Mẫu 15</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1271,7 +1271,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-15.png 'Blockquote CSS - Mẫu 15')
 
 ---
-<details><summary>Code - Mẫu 16</summary>
+<details><summary>Code CSS - Mẫu 16</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1321,7 +1321,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-16.png 'Blockquote CSS - Mẫu 16')
 
 ---
-<details><summary>Code - Mẫu 17</summary>
+<details><summary>Code CSS - Mẫu 17</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1375,7 +1375,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-17.png 'Blockquote CSS - Mẫu 17')
 
 ---
-<details><summary>Code - Mẫu 18</summary>
+<details><summary>Code CSS - Mẫu 18</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1429,7 +1429,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-18.png 'Blockquote CSS - Mẫu 18')
 
 ---
-<details><summary>Code - Mẫu 19</summary>
+<details><summary>Code CSS - Mẫu 19</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1483,7 +1483,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-19.png 'Blockquote CSS - Mẫu 19')
 
 ---
-<details><summary>Code - Mẫu 20</summary>
+<details><summary>Code CSS - Mẫu 20</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1534,7 +1534,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-20.png 'Blockquote CSS - Mẫu 20')
 
 ---
-<details><summary>Code - Mẫu 21</summary>
+<details><summary>Code CSS - Mẫu 21</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1585,7 +1585,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-21.png 'Blockquote CSS - Mẫu 21')
 
 ---
-<details><summary>Code - Mẫu 22</summary>
+<details><summary>Code CSS - Mẫu 22</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1636,7 +1636,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-22.png 'Blockquote CSS - Mẫu 22')
 
 ---
-<details><summary>Code - Mẫu 23</summary>
+<details><summary>Code CSS - Mẫu 23</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1697,7 +1697,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-23.png 'Blockquote CSS - Mẫu 23')
 
 ---
-<details><summary>Code - Mẫu 24</summary>
+<details><summary>Code CSS - Mẫu 24</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1759,7 +1759,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-24.png 'Blockquote CSS - Mẫu 24')
 
 ---
-<details><summary>Code - Mẫu 25</summary>
+<details><summary>Code CSS - Mẫu 25</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1819,7 +1819,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-25.png 'Blockquote CSS - Mẫu 25')
 
 ---
-<details><summary>Code - Mẫu 26</summary>
+<details><summary>Code CSS - Mẫu 26</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1880,7 +1880,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-26.png 'Blockquote CSS - Mẫu 26')
 
 ---
-<details><summary>Code - Mẫu 27</summary>
+<details><summary>Code CSS - Mẫu 27</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -1939,7 +1939,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-27.png 'Blockquote CSS - Mẫu 27')
 
 ---
-<details><summary>Code - Mẫu 28</summary>
+<details><summary>Code CSS - Mẫu 28</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -2054,7 +2054,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-28.png 'Blockquote CSS - Mẫu 28')
 
 ---
-<details><summary>Code - Mẫu 29</summary>
+<details><summary>Code CSS - Mẫu 29</summary>
 
 - Sử dụng FontAwesome 
 ```css
@@ -2167,7 +2167,7 @@ blockquote cite {
 ![blockquote styles css, kieu dang blockquote css](./blockquote-styles-29.png 'Blockquote CSS - Mẫu 29')
 
 ---
-<details><summary>Code - Mẫu 30</summary>
+<details><summary>Code CSS - Mẫu 30</summary>
 
 - Sử dụng FontAwesome 
 ```css
