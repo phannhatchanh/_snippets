@@ -39,7 +39,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-1 'List style - Template 1')
+![style ul ol li với css](./list-ul-ol-style-1.png 'List style - Template 1')
 
 ---
 <details><summary>Code CSS - Mẫu 2</summary>
@@ -59,7 +59,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-2-1 'List style - Template 2')
+![style ul ol li với css](./list-ul-ol-style-2-1.png 'List style - Template 2')
 ---
 <details><summary>Code CSS - Mẫu 3</summary>
 
@@ -78,7 +78,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-2-2 'List style - Template 3')
+![style ul ol li với css](./list-ul-ol-style-2-2.png 'List style - Template 3')
 
 ---
 <details><summary>Code CSS - Mẫu 4</summary>
@@ -98,7 +98,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-3 'List style - Template 4')
+![style ul ol li với css](./list-ul-ol-style-3.png 'List style - Template 4')
 
 ---
 <details><summary>Code CSS - Mẫu 5</summary>
@@ -117,7 +117,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-4 'List style - Template 5')
+![style ul ol li với css](./list-ul-ol-style-4.png 'List style - Template 5')
 
 ---
 <details><summary>Code CSS - Mẫu 6</summary>
@@ -136,7 +136,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-5-1 'List style - Template 6')
+![style ul ol li với css](./list-ul-ol-style-5-1.png 'List style - Template 6')
 
 ---
 <details><summary>Code CSS - Mẫu 7</summary>
@@ -155,7 +155,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-5-2 'List style - Template 7')
+![style ul ol li với css](./list-ul-ol-style-5-2.png 'List style - Template 7')
 
 ---
 <details><summary>Code CSS - Mẫu 8</summary>
@@ -178,7 +178,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-6-1 'List style - Template 8')
+![style ul ol li với css](./list-ul-ol-style-6-1.png 'List style - Template 8')
 
 ---
 <details><summary>Code CSS - Mẫu 9</summary>
@@ -201,7 +201,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-6-2 'List style - Template 9')
+![style ul ol li với css](./list-ul-ol-style-6-2.png 'List style - Template 9')
 
 ---
 <details><summary>Code CSS - Mẫu 10</summary>
@@ -224,7 +224,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-7-1 'List style - Template 10')
+![style ul ol li với css](./list-ul-ol-style-7-1.png 'List style - Template 10')
 
 ---
 <details><summary>Code CSS - Mẫu 11</summary>
@@ -248,7 +248,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-7-2 'List style - Template 11')
+![style ul ol li với css](./list-ul-ol-style-7-2.png 'List style - Template 11')
 
 ---
 <details><summary>Code CSS - Mẫu 12</summary>
@@ -272,7 +272,7 @@ ul li, ol li {
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-7-3 'List style - Template 12')
+![style ul ol li với css](./list-ul-ol-style-7-3.png 'List style - Template 12')
 
 ---
 <details><summary>Code CSS - Mẫu 13</summary>
@@ -308,7 +308,7 @@ ul li:before{
 ```
 </details>
 
-![style ul ol li với css](./list-ul-ol-style-8 'List style - Template 13')
+![style ul ol li với css](./list-ul-ol-style-8.png 'List style - Template 13')
 
 ---
 <details><summary>Code CSS - Mẫu 14</summary>
@@ -337,7 +337,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-1-list-ul-ol-style 'List style - Template 14')
+![style ul ol li với css](./2-1-list-ul-ol-style.png 'List style - Template 14')
 
 ---
 <details><summary>Code CSS - Mẫu 15</summary>
@@ -366,7 +366,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-2-list-ul-ol-style 'List style - Template 15')
+![style ul ol li với css](./2-2-list-ul-ol-style.png 'List style - Template 15')
 
 ---
 <details><summary>Code CSS - Mẫu 16</summary>
@@ -394,7 +394,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-3-list-ul-ol-style 'List style - Template 16')
+![style ul ol li với css](./2-3-list-ul-ol-style.png 'List style - Template 16')
 
 ---
 <details><summary>Code CSS - Mẫu 17</summary>
@@ -420,7 +420,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-4-list-ul-ol-style 'List style - Template 17')
+![style ul ol li với css](./2-4-list-ul-ol-style.png 'List style - Template 17')
 
 ---
 <details><summary>Code CSS - Mẫu 18</summary>
@@ -449,7 +449,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-5-list-ul-ol-style 'List style - Template 18')
+![style ul ol li với css](./2-5-list-ul-ol-style.png 'List style - Template 18')
 
 ---
 <details><summary>Code CSS - Mẫu 19</summary>
@@ -479,7 +479,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-6-list-ul-ol-style 'List style - Template 19')
+![style ul ol li với css](./2-6-list-ul-ol-style.png 'List style - Template 19')
 
 ---
 <details><summary>Code CSS - Mẫu 20</summary>
@@ -510,7 +510,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-7-a-list-ul-ol-style 'List style - Template 20')
+![style ul ol li với css](./2-7-a-list-ul-ol-style.png 'List style - Template 20')
 
 ---
 <details><summary>Code CSS - Mẫu 21</summary>
@@ -539,7 +539,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-7-b-list-ul-ol-style 'List style - Template 21')
+![style ul ol li với css](./2-7-b-list-ul-ol-style.png 'List style - Template 21')
 
 ---
 <details><summary>Code CSS - Mẫu 22</summary>
@@ -572,7 +572,7 @@ ul li:last-of-type {
 ```
 </details>
 
-![style ul ol li với css](./2-8-a-list-ul-ol-style 'List style - Template 22')
+![style ul ol li với css](./2-8-a-list-ul-ol-style.png 'List style - Template 22')
 
 ---
 <details><summary>Code CSS - Mẫu 23</summary>
@@ -605,7 +605,7 @@ ul li:last-of-type {
 ```
 </details>
 
-![style ul ol li với css](./2-8-b-list-ul-ol-style 'List style - Template 23')
+![style ul ol li với css](./2-8-b-list-ul-ol-style.png 'List style - Template 23')
 
 ---
 <details><summary>Code CSS - Mẫu 24</summary>
@@ -636,7 +636,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-9-a-list-ul-ol-style 'List style - Template 24')
+![style ul ol li với css](./2-9-a-list-ul-ol-style.png 'List style - Template 24')
 
 ---
 <details><summary>Code CSS - Mẫu 25</summary>
@@ -656,7 +656,7 @@ ul li:last-of-type {
 ```
 </details>
 
-![style ul ol li với css](./2-9-b-list-ul-ol-style 'List style - Template 25')
+![style ul ol li với css](./2-9-b-list-ul-ol-style.png 'List style - Template 25')
 
 ---
 <details><summary>Code CSS - Mẫu 26</summary>
@@ -694,7 +694,7 @@ ul li:before {
 ```
 </details>
 
-![style ul ol li với css](./2-9-c-list-ul-ol-style 'List style - Template 26')
+![style ul ol li với css](./2-9-c-list-ul-ol-style.png 'List style - Template 26')
 
 ---
 <details><summary>Code CSS - Mẫu 27</summary>
@@ -737,7 +737,7 @@ ol li:before{
 ```
 </details>
 
-![style ul ol li với css](./3-1-a-list-ul-ol-style 'List style - Template 27')
+![style ul ol li với css](./3-1-a-list-ul-ol-style.png 'List style - Template 27')
 
 ---
 <details><summary>Code CSS - Mẫu 28</summary>
@@ -783,7 +783,7 @@ ol li:last-of-type {
 ```
 </details>
 
-![style ul ol li với css](./3-1-b-list-ul-ol-style 'List style - Template 28')
+![style ul ol li với css](./3-1-b-list-ul-ol-style.png 'List style - Template 28')
 
 ---
 <details><summary>Code CSS - Mẫu 29</summary>
@@ -826,7 +826,7 @@ ol li:before{
 ```
 </details>
 
-![style ul ol li với css](./3-2-a-list-ul-ol-style 'List style - Template 29')
+![style ul ol li với css](./3-2-a-list-ul-ol-style.png 'List style - Template 29')
 
 ---
 <details><summary>Code CSS - Mẫu 30</summary>
@@ -867,7 +867,7 @@ ol li:before{
 ```
 </details>
 
-![style ul ol li với css](./3-2-b-list-ul-ol-style 'List style - Template 30')
+![style ul ol li với css](./3-2-b-list-ul-ol-style.png 'List style - Template 30')
 
 ---
 <details><summary>Code CSS - Mẫu 31</summary>
@@ -897,7 +897,7 @@ ol li:before{
 ```
 </details>
 
-![style ul ol li với css](./3-3-list-ul-ol-style 'List style - Template 31')
+![style ul ol li với css](./3-3-list-ul-ol-style.png 'List style - Template 31')
 
 ---
 <details><summary>Code CSS - Mẫu 32</summary>
@@ -954,7 +954,7 @@ ol li:after {
 ```
 </details>
 
-![style ul ol li với css](./3-4-list-ul-ol-style 'List style - Template 32')
+![style ul ol li với css](./3-4-list-ul-ol-style.png 'List style - Template 32')
 
 ---
 <details><summary>Code CSS - Mẫu 33</summary>
@@ -996,7 +996,7 @@ ul li:after {
 ```
 </details>
 
-![style ul ol li với css](./4-a-list-ul-ol-style 'List style - Template 33')
+![style ul ol li với css](./4-a-list-ul-ol-style.png 'List style - Template 33')
 
 ---
 <details><summary>Code CSS - Mẫu 34</summary>
@@ -1034,6 +1034,6 @@ ul li:after {
 ```
 </details>
 
-![style ul ol li với css](./4-b-list-ul-ol-style 'List style - Template 34')
+![style ul ol li với css](./4-b-list-ul-ol-style.png 'List style - Template 34')
 
 Trên đây là tổng hợp một số **mẫu định dạng thẻ `<ul>`, `<ol>` bằng css** cho trang web của bạn. Hy vọng bạn sẽ thích bộ sưu tập này!
