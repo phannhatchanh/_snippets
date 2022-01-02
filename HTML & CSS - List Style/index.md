@@ -1,6 +1,6 @@
 ---
 date: 2022-01-02
-name: 'List Styles'
+title: 'List Styles'
 description: 'Làm cho các dấu đầu dòng của thẻ ul hay ol đẹp hơn với CSS'
 category: 'HTML & CSS'
 slug: 'reference-list-styles-ul-ol-li-with-css'

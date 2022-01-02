@@ -1,6 +1,6 @@
 ---
 date: 2021-12-30
-name: 'random()'
+title: 'random()'
 description: 'Tạo một số ngẫu nhiên trong một phạm vi nhất định theo cách mà chúng ta mong muốn.'
 category: 'JavaScript'
 slug: 'tao-so-ngau-nhien-trong-pham-vi-bang-javascript'

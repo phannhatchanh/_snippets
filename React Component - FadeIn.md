@@ -1,6 +1,6 @@
 ---
 date: 2021-12-20
-name: 'FadeIn'
+title: 'FadeIn'
 description: 'Tạo một component FadeIn đơn giản trong React'
 category: 'React Component'
 slug: 'fade-in'

@@ -1,6 +1,6 @@
 ---
 date: 2021-12-27
-name: 'Typing Effect'
+title: 'Typing Effect'
 description: 'Hiệu ứng máy đánh chữ với HTML và CSS (KHÔNG JavaScript!)'
 category: 'HTML & CSS'
 slug: 'typing-effect-voi-css'

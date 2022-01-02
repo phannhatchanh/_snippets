@@ -1,6 +1,6 @@
 ---
 date: 2021-12-23
-name: 'clip-path'
+title: 'clip-path'
 description: 'Một ví dụ sử dụng SCSS tốt nhất để cắt góc xéo vùng DIV'
 category: 'HTML & CSS'
 slug: 'clip-path-cat-goc-vung-div-voi-scss'

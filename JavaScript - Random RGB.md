@@ -1,6 +1,6 @@
 ---
 date: 2021-12-20
-name: 'randomRGB()'
+title: 'randomRGB()'
 description: 'Hàm tạo chuỗi mã màu RGB ngẫu nhiên'
 category: 'JavaScript'
 slug: 'random-rgb'

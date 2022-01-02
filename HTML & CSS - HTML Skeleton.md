@@ -1,6 +1,6 @@
 ---
 date: 2021-12-20
-name: 'HTML Skeleton'
+title: 'HTML Skeleton'
 description: 'Khởi động dự án tiếp theo của bạn với khung HTML'
 category: 'HTML & CSS'
 slug: 'html-skeleton'
