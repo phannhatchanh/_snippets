@@ -42,10 +42,10 @@ Giả sử ta có đoạn HTML (sẽ được áp dụng từ kiểu 1 đến ki
     padding: 0.5em 1em;
     margin: 2em 0;
     font-weight: bold;
-    color: #6091d3;/*文字色*/
+    color: #6091d3;
     background: #FFF;
-    border: solid 3px #6091d3;/*線*/
-    border-radius: 10px;/*角の丸み*/
+    border: solid 3px #6091d3;
+    border-radius: 10px;
 }
 .box p {
     margin: 0; 
@@ -65,7 +65,7 @@ Giả sử ta có đoạn HTML (sẽ được áp dụng từ kiểu 1 đến ki
     padding: 0.5em 1em;
     margin: 2em 0;
     color: #2c2c2f;
-    background: #cde4ff;/*背景色*/
+    background: #cde4ff;
 }
 .box p {
     margin: 0; 
@@ -126,7 +126,7 @@ Giả sử ta có đoạn HTML (sẽ được áp dụng từ kiểu 1 đến ki
     padding: 0.5em 1em;
     margin: 2em 0;
     background: #f0f7ff;
-    border: dashed 2px #5b8bd0;/*点線*/
+    border: dashed 2px #5b8bd0;
 }
 .box p {
     margin: 0; 
@@ -146,9 +146,9 @@ Giả sử ta có đoạn HTML (sẽ được áp dụng từ kiểu 1 đến ki
     padding: 0.5em 1em;
     margin: 2em 0;
     color: #474747;
-    background: whitesmoke;/*背景色*/
-    border-left: double 7px #4ec4d3;/*左線*/
-    border-right: double 7px #4ec4d3;/*右線*/
+    background: whitesmoke;
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
 }
 .box p {
     margin: 0; 
